@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project features an interactive dashboard analyzing Netflix's content catalog. The goal was to uncover insights regarding content distribution trends, top genres, and growth patterns over time.
-
+![Dashboard Overview](Netflix dashoard.png)
 ## Key Insights Uncovered
 * **Content Split:** Discovered the ratio of Movies vs. TV Shows on the platform.
 * **Release Trends:** Identified the peak years for content additions.
